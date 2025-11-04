@@ -92,7 +92,7 @@ Project Website: [Coming Soon]
 ### Installation
 ```bash
 
-git clone https://github.com/your-username/empathic-intelligence-framework.git
+git clone https://github.com/ton-nom-utilisateur/Murene-Project.git
 cd empathic-intelligence-framework
 pip install numpy matplotlib
 from murene_engine import MureneSystem
