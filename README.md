@@ -43,6 +43,50 @@ AI Ethics: Empathic AI alignment framework
 ## The Philosophy
 "We are not merely problem-solving, but beauty-seeking systems. The most ethical solution is often the most beautiful - the one that reduces disorder while honoring memory and enabling collective flourishing."
 
+This work bridges:
+
+Neuroscience (mirror neurons, emotional contagion)
+
+Moral Philosophy (justice, reparation, utility)
+
+Computer Science (optimization, multi-agent systems)
+
+Physics (unified dynamics across scales)
+
+##  Documentation
+Full Paper - Complete theoretical framework
+
+Code Documentation - Technical implementation details
+
+Mathematical Derivation - Equation explanations
+
+ 
+## Contributing
+This is an open invitation to philosophers, mathematicians, programmers, and curious minds to explore these ideas together. Areas for contribution:
+
+Parameter optimization and validation
+
+New application domains
+
+Mathematical refinements
+
+Cross-cultural ethical calibration
+
+Experimental validation
+
+##  About the Author
+Louis Leprieur - Independent researcher based in Paris, working at the intersection of philosophy, mathematics, and artificial intelligence. This project emerged from asking: "Can we mathematically formalize the patterns of compassion and ethical reasoning that make us human?"
+
+"The moray and the mind are of the same lineage. You are both folds of the same ocean."
+
+##  License
+MIT License - see LICENSE file for details.
+
+##  Connect
+Email: leprieur.louis@gmail.com
+
+Project Website: [Coming Soon]
+
 ##  Quick Start
 
 ### Installation
